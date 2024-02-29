@@ -4,7 +4,7 @@ const app = Vue.createApp({
             cart:0,
             brand: "Vue Mastery",
             product: "Socks",
-            description: "Fluffy warm socks!",
+            description: "They are socks",
             selectedVariant: 0,
             url: "https://www.vuemastery.com",
             inventory: 0,
